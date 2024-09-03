@@ -1,6 +1,6 @@
 # Hi I'm Asmita Cheke 👋
 
-I'm a motivated individual with a strong foundation in Python programming, DevOps, and AWS cloud services. I have hands-on experience with AWS-related projects and am eager to contribute to challenging IT environments. My goal is to apply my skills to enhance productivity and drive impactful results.
+I'm a motivated individual with a strong foundation in **Python programming** and **AWS cloud services**. I have hands-on experience with AWS-related projects and am eager to contribute to challenging IT environments. My goal is to apply my skills to enhance productivity and drive impactful results.
 
 ## 🛠 Technical Skills
 
@@ -22,7 +22,7 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
 -->
 
 ## 🎓 Education
-- **Bachelor of Engineering (IT)** - 8.00 CGPA
+- **Bachelor of Engineering (IT)** - **8.00 CGPA**
 
 ## 🔭 I’m currently working on
 - AWS projects to gain hands-on experience and document my journey.
@@ -32,9 +32,6 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
 
 ## 👯 I’m looking to collaborate on
 - Open-source projects related to Python, AWS, and DevOps.
-
-## 🤔 I’m looking for help with
-- Improving my shell scripts and automating tasks.
 
 ## 💬 Ask me about
 - Python programming, AWS cloud services, and networking.
@@ -49,7 +46,4 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
   &nbsp;&nbsp;
   <a href="mailto:asmita.cheke@gmail.com" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/gmail.png" height="40" width="40"></a>
 </p>
-<!--
-- LinkedIn (Add your LinkedIn profile link)
-- Email (Add your email address)
--->
+
