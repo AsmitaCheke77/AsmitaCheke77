@@ -1,18 +1,3 @@
-<!--
-**AsmitaCheke77/AsmitaCheke77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi I'm Asmita Cheke 👋
 
 I'm a motivated individual with a strong foundation in Python programming, DevOps, and AWS cloud services. I have hands-on experience with AWS-related projects and am eager to contribute to challenging IT environments. My goal is to apply my skills to enhance productivity and drive impactful results.
@@ -59,9 +44,10 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
 
 ## 📫 How to reach me
 <p>
-  <a href="www.linkedin.com/in/asmitacheke" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/linkedin-svgrepo-com%20(1).svg" height="30" width="30"></a>
   &nbsp;&nbsp;
-  <a href="mailto:asmita.cheke@gmail.com" target="_blank"><img src="https://github.com/SumitMawal/SumitMawal/blob/main/icons/Gmail.svg" height="30" width="30"></a>
+  <a href="www.linkedin.com/in/asmitacheke" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/Linked.png" height="40" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:asmita.cheke@gmail.com" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/gmail.png" height="30" width="40"></a>
 </p>
 <!--
 - LinkedIn (Add your LinkedIn profile link)
