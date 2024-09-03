@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 I'm a motivated individual with a strong foundation in Python programming, DevOps, and AWS cloud services. I have hands-on experience with AWS-related projects and am eager to contribute to challenging IT environments. My goal is to apply my skills to enhance productivity and drive impactful results.
 
 ## 🛠 Technical Skills
+
+| Python | Linux |
+| --- | --- |
+| **Networking** | **AWS** |
+| **Git & GitHub** | **MySQL** |
+| **JavaScript** | **Django** |
+
+<!--
 - **Python**
 - **Linux**
 - **Networking**
@@ -26,6 +34,7 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
 - **MySQL**
 - **JavaScript**
 - **Django**
+-->
 
 ## 🎓 Education
 - **Bachelor of Engineering (IT)** - 8.00 CGPA
