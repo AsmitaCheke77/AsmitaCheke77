@@ -45,9 +45,9 @@ I'm a motivated individual with a strong foundation in Python programming, DevOp
 ## 📫 How to reach me
 <p>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/asmitacheke" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/Linked.png" height="40" width="40"></a>
+  <a href="www.linkedin.com/in/asmitacheke" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/linkedin-logo-3.png" height="40" width="40"></a>
   &nbsp;&nbsp;
-  <a href="mailto:asmita.cheke@gmail.com" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/gmail.png" height="30" width="40"></a>
+  <a href="mailto:asmita.cheke@gmail.com" target="_blank"><img src="https://github.com/AsmitaCheke77/AsmitaCheke77/blob/main/gmail.png" height="40" width="40"></a>
 </p>
 <!--
 - LinkedIn (Add your LinkedIn profile link)
